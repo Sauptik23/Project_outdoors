@@ -25,6 +25,13 @@
       background-color: $color-white;
     }
   }
+  &--green {
+    background-color: $color-medium-green;
+    color: $color-white;
+    &::after {
+      background-color: $color-medium-green;
+    }
+  }
 
   &::after {
     content: "";
