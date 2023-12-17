@@ -84,13 +84,13 @@ body {
   display: block;
   font-size: 6rem;
   font-weight: 400;
-  letter-spacing: 35px;
+  letter-spacing: 3.5rem;
   animation: moveInLeft 1s ease-out;
 }
 @media (max-width: 37.5em) {
   .heading-primary {
     letter-spacing: 1rem;
-    font-size: 5rem;
+    font-size: 3rem;
   }
 }
 .heading-primary--sub {
