@@ -13,7 +13,9 @@
     border: none;
     cursor: pointer;
   }
-
+  @include respond(phone) {
+    margin-top: 50rem;
+  }
   &:hover {
     transform: translateY(-3px);
     box-shadow: 0 10px 20px rgba($color-black, 0.2);
