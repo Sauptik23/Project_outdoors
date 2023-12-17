@@ -1,19 +1,19 @@
-# Project_outdoors
+# Project_outdoors(Ongoing Project)
 
 **Welcome to Project_outdoors!** This project is a website built with Sass for a modern, stylish outdoor brand.
 
 ## Features
 
-* Clean and responsive design
-* Easy to customize with Sass variables
-* Optimized for mobile and desktop devices
+- Clean and responsive design
+- Easy to customize with Sass variables
+- Optimized for mobile and desktop devices
 
 ## Technologies Used
 
-* **Front-end:** HTML5, CSS3, Sass
-* **Preprocessor:** Sass
-* **Package Manager:** npm
-* **Development Server:** Live-Server
+- **Front-end:** HTML5, CSS3, Sass
+- **Preprocessor:** Sass
+- **Package Manager:** npm
+- **Development Server:** Live-Server
 
 ## Getting Started
 
@@ -73,4 +73,3 @@ This project is licensed under the MIT license.
 For any questions or feedback, please feel free to create an issue on the GitHub repository or email us at sauptikmukherjee12@gmail.com.
 
 We hope you enjoy using Project_outdoors!
-
