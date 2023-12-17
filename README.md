@@ -19,14 +19,12 @@
 
 The website is live at https://projectoutdoors.netlify.app/
 
-          OR
-
 ### To test it locally
 
 1. Clone the repo
 
 ```
-https://github.com/Sauptik23/Project_outdoors.git
+git@github.com:Sauptik23/Project_outdoors.git
 ```
 
 2. Install the project dependencies:
@@ -84,6 +82,10 @@ This project is licensed under the MIT license.
 For any questions or feedback, please feel free to create an issue on the GitHub repository or email us at sauptikmukherjee12@gmail.com.
 
 We hope you enjoy using Project_outdoors!
+
+```
+
+```
 
 ```
 
