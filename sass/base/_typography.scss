@@ -10,20 +10,21 @@
     font-weight: 400;
     letter-spacing: 3.5rem;
     animation: moveInLeft 1s ease-out;
+    @include respond(phone) {
+      letter-spacing: 1rem;
+      font-size: 4rem;
+    }
   }
-  @include respond(phone) {
-    letter-spacing: 1rem;
-    font-size: 3rem;
-  }
+
   &--sub {
     display: block;
     font-size: 2rem;
     font-weight: 700;
-    letter-spacing: 17.4px;
+    letter-spacing: 1.74rem;
     animation: moveInRight 1s ease-out;
-  }
-  @include respond(phone) {
-    letter-spacing: 0.5rem;
+    @include respond(phone) {
+      letter-spacing: 0.5rem;
+    }
   }
 }
 .heading-secondary {

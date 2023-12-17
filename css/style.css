@@ -88,20 +88,20 @@ body {
   animation: moveInLeft 1s ease-out;
 }
 @media (max-width: 37.5em) {
-  .heading-primary {
+  .heading-primary--main {
     letter-spacing: 1rem;
-    font-size: 3rem;
+    font-size: 4rem;
   }
 }
 .heading-primary--sub {
   display: block;
   font-size: 2rem;
   font-weight: 700;
-  letter-spacing: 17.4px;
+  letter-spacing: 1.74rem;
   animation: moveInRight 1s ease-out;
 }
 @media (max-width: 37.5em) {
-  .heading-primary {
+  .heading-primary--sub {
     letter-spacing: 0.5rem;
   }
 }
